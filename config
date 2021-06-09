@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "orgin"]
+	url = https://github.com/god04056/C-Sharp.git
+	fetch = +refs/heads/*:refs/remotes/orgin/*
+[gui]
+	wmstate = normal
+	geometry = 824x435+182+182 179 196
+[user]
+	name = god04056
+	email = god04056@gmail.com
